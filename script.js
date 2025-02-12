@@ -12,8 +12,7 @@ document.getElementById("surveyForm").addEventListener("submit", function(event)
         Ім'я: ${name}<br>
         Вік: ${age}<br>
         Ріст: ${height} см<br>
-        Вага: ${vaga} кг<br>
-        Місто: ${city}<br>
+        Місто: ${city} <=<br>
         Студент: ${isStudent}
     `;
 
